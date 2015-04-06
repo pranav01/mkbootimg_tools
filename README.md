@@ -1,4 +1,4 @@
-mkbootimg_tools
+mkbootimg tools
 ===============
 
 Instructions
